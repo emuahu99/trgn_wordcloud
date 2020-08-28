@@ -1,2 +1,2 @@
-https://en.wikipedia.org/wiki/Translational_bioinformatics
-https://en.wikipedia.org/wiki/Genomics
+https://pubmed.ncbi.nlm.nih.gov/
+https://www.sciencemag.org/
